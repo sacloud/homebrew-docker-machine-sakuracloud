@@ -1,8 +1,8 @@
 class DockerMachineSakuracloud < Formula
 
-  _version = "1.2.0"
-  sha256_src_darwin = "129627fea667f3b6ad66526d098f7625bcf596dd6de997a9108e820f5f4bb130"
-  sha256_src_linux = "c1457a3fad26c9c47b42c122223f32864b254796a79f5247a6379d67f38f488c"
+  _version = "1.3.0"
+  sha256_src_darwin = "a40b3d4f194b71ddb3790a636e88615cebf83eabf9fc773fd36efa261a659315"
+  sha256_src_linux = "5e38e401e027bbdb12d439ca0a213c583425434490f469b49689c009fc22642a"
 
   desc "Docker-Machine driver for SakuraCloud"
   homepage "https://github.com/sacloud/docker-machine-sakuracloud"
